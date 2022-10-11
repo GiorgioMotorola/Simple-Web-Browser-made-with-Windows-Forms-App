@@ -1,0 +1,11 @@
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.WebBrowser.resources
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\downw\Desktop\projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
